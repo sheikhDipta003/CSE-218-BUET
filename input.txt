@@ -1,0 +1,2 @@
+A quick brown fox jumps over a white lazy dog.
+This is a demo class.
